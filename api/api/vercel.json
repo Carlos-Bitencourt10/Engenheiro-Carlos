@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api/analyze-mce.js": {
+      "maxDuration": 30
+    },
+    "api/generate-mce.js": {
+      "maxDuration": 60
+    }
+  }
+}
